@@ -7,13 +7,15 @@
 <h3>Currently digging into Data Analytics and Machine Learning domain :wink:</h3>
 
 
-🌱 I’m currently learning - Art of writing blogs, <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat">
+
 
 💬 Ask me about - Python, Dot-Net
 
 :computer: Current Interest - Python, Data Analytics, Machine learning, Deep learning
 
-📫 How to reach me: <a href="https://www.linkedin.com/in/saivijaay-vinoth-kannaa-593602208" target="_blank">
+📫 How to reach me: 
+<br/><br/>
+<a href="https://www.linkedin.com/in/saivijaay-vinoth-kannaa-593602208" target="_blank">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
